@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+body{ 
+    background-color: #31d7be;
+}
+
+#inicio{ display:block;
+    margin:auto;
+    margin-top: 10%; 
+}
+
+#shopping{ color: #ffffff;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+ }
+
+#contenedor{ 
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#discount{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+ 
+ #credit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+ #gift{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+ #coupon{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+#transport{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+#customer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+ #informacion{ 
+    background: #194e46;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Arimo', sans-serif;
+}
+
+#texto{
+   color: #ffffff;
+   text-align: center;
+   font-family: 'Arimo', sans-serif;
+}
